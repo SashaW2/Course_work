@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <orderedlist>
+    <listitem>
+      <para><olink targetdocent="index2.html">Квартиры</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="index3.html">Дома и участки</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="index4.html">Коммерческая недвижимость</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="index1.html">О нас</olink> </para>
+    </listitem>
+  </orderedlist>
+  <sect1>
+    <title>
+      <olink targetdocent="index2.html">Квартиры </olink>
+    </title>
+    <olink targetdocent="index2.html">Квартиры </olink>
+  </sect1>
+  <sect1>
+    <title>
+      <olink targetdocent="index3.html">Дома и участки </olink>
+    </title>
+    <olink targetdocent="index3.html">Дома и участки </olink>
+  </sect1>
+  <sect1>
+    <title>
+      <olink targetdocent="index4.html">Коммерческая недвижимость </olink>
+    </title>
+    <olink targetdocent="index4.html">Коммерческая недвижимость </olink>
+  </sect1>
+  <sect1>
+    <title>
+      <olink targetdocent="index1.html">О нас </olink>
+    </title>
+    <olink targetdocent="index1.html">О нас </olink>
+    <para><inlinegraphic fileref="/img/flat1/medium_003_1f282d966a.webp"></para>
+    <para><inlinegraphic fileref="/img/flat1/medium_004_817f0b2b63.webp"></para>
+    <para><inlinegraphic fileref="/img/flat1/medium_005_f6436b9509.webp"></para>
+    <para><inlinegraphic fileref="/img/flat1/medium_006_eb59d68db2.webp"></para>
+    <para><inlinegraphic fileref="/img/flat1/medium_Eksklyuzivnaya_kvartira_s_avtorskim_remontom_20bb47253e_a9a08550df.webp"></para>
+  </sect1>
+  <sect1>
+    <title>Однокомнатная квартира </title>
+    <para><inlinegraphic fileref="../../img/icons8-address-50%204.png"></para>
+    <sect2>
+      <title>Минск, Грибоедова ул., 4 </title>
+      <para><inlinegraphic fileref="../../img/icons8-метро-50%204.png"></para>
+    </sect2>
+    <sect2>
+      <title>Молодежная</title>
+      <para><inlinegraphic fileref="../../img/icons8-лестница-50%204.png"></para>
+    </sect2>
+    <sect2>
+      <title>7 этаж </title>
+    </sect2>
+    <sect2>
+      <title>Комнат: 2 </title>
+    </sect2>
+    <sect2>
+      <title>Год постройки: 2023 </title>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Площадь</title>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>28.6м²</title>
+        <sect4>
+          <title>общая</title>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>24.6м² </title>
+        <sect4>
+          <title>жилая </title>
+        </sect4>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title/>
+      <sect3>
+        <title>1330$ </title>
+        <sect4>
+          <title>за м2 </title>
+        </sect4>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Стоимость </title>
+    <sect2>
+      <title>69 900 USD </title>
+    </sect2>
+    <sect2>
+      <title>228 314 BYN </title>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Характеристики </title>
+    <sect2>
+      <title>Комнатность </title>
+      <sect3>
+        <title>Двухкомнатная квартира </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Разделённость комнат </title>
+      <sect3>
+        <title>2 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Площадь общая </title>
+      <sect3>
+        <title>58.4 м2 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Площадь жилая </title>
+      <sect3>
+        <title>42.1 м2 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Площадь кухни </title>
+      <sect3>
+        <title>6.3 м2 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Год постройки </title>
+      <sect3>
+        <title>1965 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Год капитального ремонта </title>
+      <sect3>
+        <title>2018 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Этаж/этажность </title>
+      <sect3>
+        <title>5/5 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Тип дома </title>
+      <sect3>
+        <title>панельный </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Планировка </title>
+      <sect3>
+        <title>улучшенный проект </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Балкон </title>
+      <sect3>
+        <title>лоджия застекленная </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Ремонт </title>
+      <sect3>
+        <title>хороший </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Высота потолков </title>
+      <sect3>
+        <title>2.54 </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Санузел </title>
+      <sect3>
+        <title>совмещённый </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Возможен торг </title>
+      <sect3>
+        <title>да </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Собственность </title>
+      <sect3>
+        <title>частная </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Условия сделки </title>
+      <sect3>
+        <title>чистая продажа </title>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Номер договора </title>
+      <sect3>
+        <title>1102/2 </title>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Описание </title>
+    <para>Продается шикарный дом в классическом стиле и большой участок в экологически чистом зеленом месте. Общая площадь дома – 437,9 кв.м., площадь земельного участка – 25 соток. Дом в состоянии чистовой отделки, что позволяет создать дом своей мечты. На объекте все необходимые коммуникации: магистральные газо- и электроснабжение, собственная артезианская скважина, местная канализация, телефон. На первом этаже располагаются гостиная с камином, кухня, совмещенная с обеденной зоной, кабинет, 2 сан. узла, гардероб, хозяйственные помещения, прямой выход на террасу. На втором этаже – 3 спальни с сан. узлами в каждой комнате. На цокольном этаже располагаются котельная с установленным отопительным оборудованием фирмы Vaillant, гараж на 2 автомобиля, бильярдная, хозяйственные помещения. Выгодное расположение объекта: дом находится в тихой части коттеджного поселка Валерьяново совсем рядом с лесом, футбольными и волейбольными полями, оборудованной детской площадкой. Дом находится в 10 минутах от Минска по Логойскому направлению. Рядом вся необходимая инфраструктура: супермаркеты Гиппо и Виталюр, ТРЦ Экспобел, оздоровительный центр с тренажерным залом, косметологическом кабинетом, кафе и прочими услугами. Земельный участок находится в частной собственности. </para>
+  </sect1>
+  <sect1>
+    <title>Оставьте заявку, и мы ответим на все ваши вопросы </title>
+    <sect2>
+      <title>
+        <olink targetdocent="../../index.html">Оставить заявку </olink>
+      </title>
+      <olink targetdocent="../../index.html">Оставить заявку </olink>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Guarantee </title>
+    <para>УНП: 193601325 </para>
+    <para>Лицензия: 02240/431, МЮ РБ </para>
+    <para>Использование портала означает согласие с </para>
+    <para>
+      <link linkend="">Пользовательское соглашение </link>
+    </para>
+    <para>
+      <link linkend="">Политика обработки персональных данных </link>
+    </para>
+    <para>Юридические <link linkend="">документы</link>, на основании которыхработает компания </para>
+  </sect1>
+  <sect1>
+    <title>Контакты </title>
+    <para>+375 17 322-73-22 </para>
+    <para>+375 29 710-20-20 </para>
+    <sect2>
+      <title>Отдел коммерческой недвижимости: </title>
+      <para>+375 33 380-85-85 </para>
+      <para>+375 29 380-85-85 </para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Адрес </title>
+    <para>ул. Кальварийская 42, оф. 68,ст. м. Молодёжная </para>
+    <sect2>
+      <title>Время работы: </title>
+      <para>пн - пт с 9:00 до 21:00 </para>
+      <para>сб - вс с 9.00 до 15.00 </para>
+    </sect2>
+  </sect1>
+</article>
